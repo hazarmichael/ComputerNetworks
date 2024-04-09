@@ -1,0 +1,11 @@
+Laptop D,1500
+Laptop J,1150
+Laptop F,900
+Laptop E,1300
+Laptop H,1400
+Laptop B,1200
+Laptop I,950
+Laptop A,800
+Laptop C,1000
+Laptop G,1100
+
